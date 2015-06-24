@@ -1,1 +1,40 @@
-Determine which parts you will need.
+You will need the following parts:
+
+3 of 'Support ring section 1'
+
+If you have a heater with wiring entering on it's perimeter, you will need:
+1 of the 'Support ring section 2 slotted' and
+2 of 'Support ring section 2'
+
+If your heater element has wiring attached away from the perimeter you will need:
+3 of 'Support ring section 2'
+
+6 of 'Glass clamp' (If these tighten down onto the ring without securing the glass sufficiently, try the 'Glass clamp extended chamfer'
+
+3 of 'Support arm'
+
+1 of 'Lock ring'
+
+Start by assembling the ring using the M3X10 bolts.
+
+Attach the glass clamps using M3X16 bolts, but leave them fairly loose.
+
+Insert 3 M3 half-nuts into the position where you will attach the bed support.
+
+Sit the glass plate on the ring and tighten the glass clamps.
+
+Insert the heater. If using a heater with wiring attached to the edge, feed this through the slot.
+
+With the bed glass side down, insert your insulating material.
+
+Place the solid cover over the insulating material.
+
+To assemble the bed support, place the 3 support arms with the cutouts forming a circle in the middle.
+
+Place the lock ring over the arms and turn it to lock the arms together.
+
+Attach the support assembly to the bed using M3X16 bolts.
+
+Plug your wiring into your controller and attach the bed to the printer.
+
+Enjoy :)
